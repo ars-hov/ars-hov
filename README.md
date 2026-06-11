@@ -3,7 +3,7 @@ I'm Arsen, a computer science student and developer currently studying in Paris.
 
 Right now, I am pursuing my degree at [**Sorbonne University**](https://www.sorbonne-universite.fr/), while dedicating my time to crafting a personal portfolio of work that represents my journey in software engineering.
 
-For me, software development is about the balance between efficiency and simplicity. 
+For me, software development is about the balance between efficiency and simplicity. I love the creative challenge of diving into low-level logic, designing smooth workflows, and ultimately turning complex problems into elegant, readable code. I'm always looking for that sweet spot where great design meets solid performance.
 
 When I’m away from my keyboard, I love to step back, explore art, and just enjoy life, with a cup of coffee☕
 
